@@ -46,6 +46,7 @@ What Each JavaScript File Does
     - If the manager selects 'End Session', it ends the sessionand doesn't go back to the menu.
 
     Screenshots
+    - Refer to Screenshots folder
 
     Technologies Used
     - Node.js
